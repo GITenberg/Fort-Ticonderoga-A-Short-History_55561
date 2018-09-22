@@ -1,11 +1,16 @@
 _repo: Fort-Ticonderoga-A-Short-History_55561
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55561-h/images/cover.jpg
 creator:
   author:
     agent_name: Pell, S. H. P.
     gutenberg_agent_id: '48396'
     url: http://www.gutenberg.org/2009/agents/48396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55561#Fort-Ticonderoga-A-Short-History
 gutenberg_issued: '2017-09-16'
 gutenberg_type: Text
 identifiers:
